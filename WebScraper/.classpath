@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Java .jars/java-json.jar"/>
+	<classpathentry kind="lib" path="C:/Java .jars/mongo-java-driver-3.0.4.jar"/>
+	<classpathentry kind="lib" path="C:/Java .jars/jsoup-1.13.1.jar"/>
+	<classpathentry kind="lib" path="C:/Java .jars/javax.mail.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/JavaFX"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

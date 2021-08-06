@@ -1,6 +1,11 @@
 # Restock
 **Description:** Restock is an app that allows the user to enter a link of a product from either; Amazon, NewEgg or BestBuy. Once the user adds the link that item is added to the users wish list. The wish list keeps track of a few fields including; is the item in stock and the price of that item. The data for every item is updated every 30 seconds and if the user wishes so the app will notify the user if an item from their wishlist is in stock and from what website. The app can also do some other things like keep a log of every time an item comes in stock, which could be useful for collecting data. 
 
+### What I Learned
+- I learned how to scrape information from websites using JSoup.
+- I learned how to create a better GUI using JavaFX and used it to make a tables to display data.
+- I learned how to use multi-threading in Java to update the GUI while scraping the web at the same time.
+
 ### Requirements
 - Java - Most computers and other applications already use Java, but if you do not have Java you can download it from (https://java.com/en/).
 - MongoDB - The app uses MongoDB to keep track of every item and the users specific request. If you do not have MongoDB installed you can download the community version from (https://www.mongodb.com/try/download/community).
